@@ -72,7 +72,7 @@ ORDER BY
 ```
 ### Hypothesis A:
 
-Correlation and linear regression:purchase value and time spent in funnel
+Correlation and linear regression -purchase value and time spent in funnel
 
 **Correlation** between spend and time to purchase is 0.042302
 This means:
@@ -88,7 +88,7 @@ This means:
 Looking only at time spent in the purchasing funnel on our website for new customers does not provide any reliable information about customer purchasing behavior nor predictability. 
 
 ### Hypothesis B:
-Correlation and linear regression:purchase value, time spent in funnel + devices used
+Correlation and linear regression -purchase value, time spent in funnel + devices used
 
 **Multiple linear regression** analysis shows:
 - the p-value of all independent variables are higher than 0.05, except for ‘time_to_purchase’ which is 0.0410 indicating a relationship between it and the dependent variable
