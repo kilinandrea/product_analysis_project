@@ -1,5 +1,5 @@
 ## Introduction
-This is part of a product analysis project to identify how much time it takes for a user to make a purchase on our website.
+This is part of a product analysis project to evaluate users' time spent on an ecommerce website.
 I am to analyse a specfic subset of customers: users who are first time visitors and make a purchase on the same day.
 _Limitations_: 
 - Sessions occurred during midnight are missed.
