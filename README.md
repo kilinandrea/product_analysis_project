@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 This is a product analysis project to identify how much time it takes for a user to make a purchase on our website.
 I am to analyse a specfic subset of customers' time spent in the purchase funnel: users who are first time visitors and make a purchase on the same day.
 _Limitations_: 
